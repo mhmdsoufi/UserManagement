@@ -4,8 +4,8 @@
 
 - NodeJS - JS runtime environment
 - Express - The web framework used
-- Mongoose - Object Data Modelling (ODM) library
 - MongoDB - Cloud database service
+- Mongoose - Object Data Modelling (ODM) library
 - ejs - High performance template engine
 
 ## Setting Up Your Local Environment ⚙️
