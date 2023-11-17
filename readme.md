@@ -30,4 +30,4 @@ You can fork the app or you can git-clone the app into your local machine. Once 
 dependencies by running
 
 - npm i
-  - npm start
+- npm start
